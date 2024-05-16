@@ -2,28 +2,28 @@
     "parent": "builtin/entity",
 	"gui_light": "front",
     "textures": {
-        "particle": "block/dark_oak_planks"
+        "particle": "blocks/plank_oak"
     },
 	"display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 90, 0 ],
-            "translation": [ 10, 6, -4 ],
-            "scale": [ 1, 1, 1 ]
+            "translation": [ 7.75, 4.5, -5 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
         },
         "thirdperson_lefthand": {
             "rotation": [ 0, 90, 0 ],
-            "translation": [ 10, 6, 12 ],
-            "scale": [ 1, 1, 1 ]
+            "translation": [ 7.75, 4.5, 8 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
         },
         "firstperson_righthand": {
             "rotation": [ 0, 180, 5 ],
-            "translation": [ -10, -0.75, -10 ],
-            "scale": [ 1.25, 1.25, 1.25 ]
+            "translation": [ -3, -3, -10 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
         },
         "firstperson_lefthand": {
             "rotation": [ 0, 180, 5 ],
-            "translation": [ 10, -2.5, -10 ],
-            "scale": [ 1.25, 1.25, 1.25 ]
+            "translation": [ 10, -4, -10 ],
+            "scale": [ 0.8, 0.8, 0.8 ]
         },
         "gui": {
             "rotation": [ 15, -25, -5 ],
