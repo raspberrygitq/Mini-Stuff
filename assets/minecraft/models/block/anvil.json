@@ -1,6 +1,6 @@
 {
     "elements": [
-        {   "__comment": "Anvil base",
+        {
             "from": [ 2, 0, 2 ],
             "to": [ 14, 4, 14 ],
             "faces": {
@@ -12,7 +12,7 @@
                 "east":  { "uv": [ 4,  2,  0, 14 ], "texture": "#body", "rotation": 270 }
             }
         },
-        {   "__comment": "Lower narrow portion",
+        {
             "from": [ 4, 4, 3 ],
             "to": [ 12, 5, 13 ],
             "faces": {
@@ -24,7 +24,7 @@
                 "east":  { "uv": [ 5,  3,  4, 13 ], "texture": "#body", "rotation": 270 }
             }
         },
-        {   "__comment": "Wider section beneath top portion",
+        {
             "from": [ 6, 5, 4 ],
             "to": [ 10, 10, 12 ],
             "faces": {
@@ -36,7 +36,7 @@
                 "east":  { "uv": [ 10,  4,  5, 12 ], "texture": "#body", "rotation": 270 }
             }
         },
-        {   "__comment": "Anvil top",
+        {
             "from": [ 3, 10, 0 ],
             "to": [ 13, 16, 16 ],
             "faces": {
