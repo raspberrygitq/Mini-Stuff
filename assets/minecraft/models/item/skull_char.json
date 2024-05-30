@@ -8,8 +8,8 @@
         },
         "firstperson": {
             "rotation": [ 0, -90, 0 ],
-            "translation": [ 0, 2.225, 0 ],
-            "scale": [ 0.4, 0.4, 0.4 ]
+            "translation": [ 0, 1.525, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
         },
         "gui": {
             "rotation": [ 0, 180, 0 ],
