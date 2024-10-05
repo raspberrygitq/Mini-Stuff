@@ -9,6 +9,7 @@ This pack of resources was created to reduce the stuff held in your hand. It is 
 <summary>Incompatibility (Mods) ❌</summary>
 
 * [FastChest](https://modrinth.com/mod/fastchest)
+    * The chest is invisible in the equipment and in the hand.
 </details>
 
 <details>
