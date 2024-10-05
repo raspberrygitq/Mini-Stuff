@@ -20,7 +20,7 @@ This pack of resources was created to reduce the stuff held in your hand. It is 
 </details>
 <hr>
 
-If you have a resource pack or mod that interacts with this resource pack open a [issue](https://github.com/raspberrygitq/Mini-Stuff-in-Hand/issues)
+If there are resource packs or mods that are incompatible, create a [issue](https://github.com/raspberrygitq/Mini-Stuff-in-Hand/issues)
 
 ### Screenshots
 <hr>
