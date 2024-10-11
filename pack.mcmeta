@@ -3,8 +3,7 @@
         "description": "Mini Stuff in Hand resources.",
         "pack_format": 15,
         "supported_formats": {
-            "min_inclusive": 15,
-            "max_inclusive": 41
+            "min_inclusive": 15, "max_inclusive": 42
         }
     }
 }
