@@ -20,6 +20,11 @@
       "rotation": [ -100, 135, 0 ],
       "translation": [ 0, 5, -1 ],
       "scale": [ 0.4, 0.4, 0.4 ]
+    },
+    "on_shelf": {
+      "rotation": [ 0, 180, 0 ],
+      "translation": [ 0, 0, 4 ],
+      "scale": [ 1, 1, 1 ]
     }
   },
   "textures": {
