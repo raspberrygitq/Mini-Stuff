@@ -2,8 +2,19 @@
     "pack": {
         "description": "Mini Stuff resources.",
         "pack_format": 15,
-        "supported_formats": [ 15, 64 ],
+        "supported_formats": [ 15, 69 ],
         "min_format": [ 15, 0 ],
-        "max_format": [ 67, 0 ]
+        "max_format": [ 69, 0 ]
+    },
+    "overlay": {
+        "entries": [
+            {
+                "__comment": "1.21.9 Overlay",
+                "formats": [ 65, 69 ],
+                "min_format": [ 65, 0 ],
+                "max_format": [ 69, 0 ],
+                "directory": "1.21.9"
+            }
+        ]
     }
 }
