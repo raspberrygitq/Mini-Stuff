@@ -2,8 +2,8 @@
     "pack": {
         "description": "Mini Stuff resources.",
         "pack_format": 15,
-        "supported_formats": [ 15, 75 ],
+        "supported_formats": [ 15, 91 ],
         "min_format": [ 15, 0 ],
-        "max_format": [ 75, 0 ]
+        "max_format": [ 91, 0 ]
     }
 }
